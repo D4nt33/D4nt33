@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hola, soy Josué Cortez
 
-<!--
-**D4nt33/D4nt33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Técnico IT | ☁️ Cloud Engineer en formación (AWS)
 
-Here are some ideas to get you started:
+Actualmente estoy construyendo proyectos reales en la nube para mejorar mis habilidades en infraestructura, redes y despliegue de aplicaciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos
+- 🔹 Servidor web en AWS (EC2 + Nginx)
+- 🔹 Próximamente: Web en S3 + almacenamiento en la nube
+
+## 🧠 Tecnologías
+- AWS (EC2, S3 en progreso)
+- Linux (Ubuntu)
+- Redes
+- Git & GitHub
+
+## 📈 Objetivo
+Conseguir una oportunidad como Cloud Engineer / Soporte Cloud y trabajar de forma remota.
